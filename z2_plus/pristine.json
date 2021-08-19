@@ -1,10 +1,10 @@
 {
 	"response": [{
-		"datetime": 1729409311,
-		"filename": "StagOS-z2_plus-11.0.R4.1-TEST-Pristine-20210819-2141.zip",
-		"id": "ea7b556e93267b117774c56d5acff48fddb577dc4bad0cda537b05e69c646165",
-		"size": 792176272,
-		"url": "https://vjsbuilds.stag-os.org/StagOS-z2_plus-11.0.R4.1-TEST-Pristine-20210819-2141.zip",
+		"datetime": 1629410663,
+		"filename": "StagOS-z2_plus-11.0.R4.1-TEST-Pristine-20210819-2204.zip",
+		"id": "ad1f18e7950ecae74f79f67cc46daaf52ce49f17afc7c3b2db8810d02f182800",
+		"size": 792174207,
+		"url": "https://vjsbuilds.stag-os.org/StagOS-z2_plus-11.0.R4.1-TEST-Pristine-20210819-2204.zip",
 		"version": "11.0.R4.1"
 	}]
 }
