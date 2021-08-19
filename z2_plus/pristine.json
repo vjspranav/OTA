@@ -1,1 +1,11 @@
-{ "response": [ { "datetime": 1725209035, "filename": "StagOS-z2_plus-11.0.R3.1-OFFICIAL-Pristine-20210702-0657.zip", "id": "f83b3e7bd92433a9a7affcd5363779d2b42970752814e9eb2674af26f92de7b5", "size": 792235457, "url": "https://test.stag-os.org/test/StagOS-z2_plus-11.0.R3.1-OFFICIAL-Pristine-20210702-0657.zip", "version": "11.0.R3.1", "romtype": "official" }]}
+{
+	"response": [{
+		"datetime": 1629376323,
+		"filename": "StagOS-z2_plus-11.0.R4.2-TEST-Pristine-20210819-1232.zip",
+		"id": "7c8ddd015a4b48a2751159d2fa74b8e5c4e8db77e154162336b895ea542b2d74",
+		"size": 792314217,
+    "romtype": "official",
+		"url": "https://vjsbuilds.stag-os.org/StagOS-z2_plus-11.0.R4.2-TEST-Pristine-20210819-1232.zip",
+		"version": "11.0.R4.2"
+	}]
+}
