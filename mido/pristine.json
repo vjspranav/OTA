@@ -1,0 +1,13 @@
+{
+    "response": [
+        {
+            "filename": "StagOS-mido-11.0.R4.1-OFFICIAL-Pristine-20210806-1550.zip",
+            "datetime": "1628264961",
+            "url": "https://api.stag-os.org/downloads/ota/mido/pristine",
+            "version": "11.0.R4.1",
+            "romtype": "official",
+            "id": "557a59939cfac9b66f3685cbe4811a9049a55427ada5b22a2c91d284d9f62010",
+            "size": 724546523
+        }
+    ]
+}
