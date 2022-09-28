@@ -1,5 +1,5 @@
 
-[
+{ "response": [
     {
         "device": "lemonadep",
         "timestamp": 1764367109,
@@ -16,3 +16,4 @@
         "version": "13.0"
     }
 ]
+}
