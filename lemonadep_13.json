@@ -1,15 +1,18 @@
-{
-    "device": "lemonadep",
-    "timestamp": 1764367109,
-    "filename": "StagOS-lemonadep-13.0-BETA-Pristine-20220928-1152-target_files-StagOS-lemonadep-13.0-BETA-Pristine-20220928-1003-target_files.zip",
-    "filehash": "651b3ea4aa4718be1538a9bff8c12fa07fbf4457dfdeb726a25099f8d843da5c",
-    "filesize": 16332936,
-    "url": "https://vjsbuilds.stag-os.org/jenkins/StagOS-lemonadep-13.0-BETA-Pristine-20220928-1152-target_files-StagOS-lemonadep-13.0-BETA-Pristine-20220928-1003-target_files.zip",
-    "maintainers": [
-        {
-            "name": "vjspranav",
-            "url": "https://github.com/vjspranav"
-        }
-    ],
-    "version": "13.0"
-}
+
+[
+    {
+        "device": "lemonadep",
+        "timestamp": 1764367109,
+        "filename": "StagOS-lemonadep-13.0-BETA-Pristine-20220928-1152-target_files-StagOS-lemonadep-13.0-BETA-Pristine-20220928-1003-target_files.zip",
+        "filehash": "651b3ea4aa4718be1538a9bff8c12fa07fbf4457dfdeb726a25099f8d843da5c",
+        "filesize": 16332936,
+        "url": "https://vjsbuilds.stag-os.org/jenkins/StagOS-lemonadep-13.0-BETA-Pristine-20220928-1152-target_files-StagOS-lemonadep-13.0-BETA-Pristine-20220928-1003-target_files.zip",
+        "maintainers": [
+            {
+                "name": "vjspranav",
+                "url": "https://github.com/vjspranav"
+            }
+        ],
+        "version": "13.0"
+    }
+]
