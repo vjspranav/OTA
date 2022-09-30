@@ -3,10 +3,10 @@
     {
         "romtype": "beta",
         "datetime": 1764367109,
-        "filename": "StagOS-lemonadep-13.0-BETA-Pristine-20220928-1512-target_files-StagOS-lemonadep-13.0-BETA-Pristine-20220928-1357-target_files.zip",
-        "id": "5b7c0980352828af39da3aecccb26cdfcdec7fb57e057e88ba84d81dd62c3027",
-        "size": 13892,
-        "url": "https://vjsbuilds.stag-os.org/jenkins/StagOS-lemonadep-13.0-BETA-Pristine-20220928-1512-target_files-StagOS-lemonadep-13.0-BETA-Pristine-20220928-1357-target_files.zip",
+        "filename": "StagOS-lemonadep-13.0-BETA-GApps-20220930-0909-target_files-StagOS-lemonadep-13.0-BETA-GApps-20220929-0657-target_files.zip",
+        "id": "e08eca7f465373d011fb906435de6de56f873fc4672f0f6d7d0e6d8ddadc0e77",
+        "size": 1327200,
+        "url": "https://vjsbuilds.stag-os.org/jenkins/StagOS-lemonadep-13.0-BETA-GApps-20220930-0909-target_files-StagOS-lemonadep-13.0-BETA-GApps-20220929-0657-target_files.zip",
         "version": "13.0"
     }
 ]
