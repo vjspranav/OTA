@@ -2,13 +2,13 @@
 { "response": [
     {
         "romtype": "beta",
-        "datetime": 1864367109,
-        "filename": "StagOS_Update_1.zip",
-        "incremental_id": "ce9365065479dfe92a5c79ddc0729990bd06da1b0c4df60df7586092a132dcb8",
-        "incremental_url": "https://vjsbuilds.stag-os.org/jenkins/StagOS-lemonadep-13.0-BETA-GApps-20220930-1159-target_files-StagOS-lemonadep-13.0-BETA-GApps-20220930-0909-target_files.zip",
-        "id": "94e6933fd10d899226b6f42c36e1dccef80f782bfebae058e82f7fa4ee8a192b",
-        "url": "https://vjsbuilds.stag-os.org/jenkins/StagOS-lemonadep-13.0-BETA-GApps-20220930-1159.zip",
-        "size": 1000000,
+        "datetime": 1664890645,
+        "filename": "StagOS-lemonadep-13.0-BETA-GApps-20221005-1552.zip",
+        "incremental_id": "d4041c4df267b345b2ff15662c34f92b1b0c201c47fa756473d8f2d377458f3d",
+        "incremental_url": "https://vjsbuilds.stag-os.org/jenkins/StagOS-lemonadep-13.0-BETA-GApps-20221005-1552-target_files-StagOS-lemonadep-13.0-BETA-GApps-20220930-1159-target_files.zip",
+        "id": "c3099b19ef6678726bfb22bc1af7d58c4c4b944dd3dee6bc26e341f19f6d17a3",
+        "url": "https://vjsbuilds.stag-os.org/jenkins/StagOS-lemonadep-13.0-BETA-GApps-20221005-1552.zip",
+        "size": 2512227216,
         "version": "13.0"
     }
 ]
