@@ -1,0 +1,17 @@
+{
+    "response": [
+      {
+        "datetime": 1714518830,
+        "filename": "StagOS-Test",
+        "payload": [
+          {
+            "offset": 3835,
+            "FILE_HASH": "3b2",
+            "FILE_SIZE": "3",
+            "METADATA_HASH": "3b2",
+            "METADATA_SIZE": "3"
+          }
+        ]
+      }
+    ]
+  }
