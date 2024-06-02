@@ -4,7 +4,7 @@
         "datetime": 1717352656,
         "filename": "StagOS-porsche-14.0-BETA-Pristine-20240602-1318.zip",
         "url": "https://downloads.vjspranav.dev/jenkins/StagOS-porsche-14.0-BETA-Pristine-20240602-1318.zip",
-        "md5url": "https://downloads.vjspranav.dev/md5/update.md5sum",
+        "md5": "b588c049760a816f7d1dac5070a5f6d3",
         "payload": [
           {
             "offset": 3835,
