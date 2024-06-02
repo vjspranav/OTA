@@ -1,15 +1,19 @@
 {
-    "response": [
-      {
-        "filename": "StagOS-porsche-14.0-BETA-Pristine-20240602-1737.zip",
-        "url": "https://downloads.vjspranav.dev/jenkins/StagOS-porsche-14.0-BETA-Pristine-20240602-1737.zip",
-        "md5": "2f6faf724b4bfd8ca6154377847b896c",
-        "payload": [
-          {
-            "offset": 4047,
-            "FILE_SIZE": "1809472"
-          }
-        ]
-      }
-    ]
-  }
+  "response": [
+    {
+      "datetime": 1717352758,
+      "filename": "StagOS-porsche-14.0-BETA-Pristine-20240602-1737.zip",
+      "url": "https://downloads.vjspranav.dev/jenkins/StagOS-porsche-14.0-BETA-Pristine-20240602-1737.zip",
+      "md5": "2f6faf724b4bfd8ca6154377847b896c",
+      "payload": [
+        {
+          "offset": 4047,
+          "FILE_HASH": "rILT6RZcn/v45f5XlgCBKeXkMX+6p4Gj/quZ8B/3eRw=",
+          "FILE_SIZE": "1852884853",
+          "METADATA_HASH": "JK4FABO06+TlG8Y2Br3y86MlRHqXJhczddG4Bl+wunY=",
+          "METADATA_SIZE": "165147"
+        }
+      ]
+    }
+  ]
+}
