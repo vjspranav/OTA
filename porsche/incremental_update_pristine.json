@@ -1,17 +1,17 @@
 {
   "response": [
     {
-      "datetime": 1717399254,
-      "filename": "StagOS-porsche-incremental-Pristine-20240602-2235-20240603-0709.zip",
-      "url": "https://downloads.vjspranav.dev/jenkins/StagOS-porsche-incremental-Pristine-20240602-2235-20240603-0709.zip",
-      "md5": "2082590197e59e87a95f4ed9da27c0aa",
+      "datetime": 1717401287,
+      "filename": "StagOS-porsche-incremental-Pristine-20240603-0731-20240603-0744.zip",
+      "url": "<url>",
+      "md5": "ccc26577e9434b197a5e4e29968352e4",
       "payload": [
         {
           "offset": 5052,
-          "FILE_HASH": "5nqUc2bvvuovhDn3FF8oTftcjHs98VxezP/F4U6YCl4=",
-          "FILE_SIZE": "771431",
-          "METADATA_HASH": "6v2IVheqI6Vxg5kt1bhz7tXmssPMqxWrdoXHebNUyXU=",
-          "METADATA_SIZE": "292102"
+          "FILE_HASH": "ffP4H1Z7Vv3hzeCgqNhS3p8n5g70/l4eqik+6E9oGos=",
+          "FILE_SIZE": "304719",
+          "METADATA_HASH": "/EHn0O1AHPYs3CkFOILjbEO9afSpEUk6FdP+Xtuhw0k=",
+          "METADATA_SIZE": "291761"
         }
       ]
     }
