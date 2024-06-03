@@ -2,8 +2,9 @@
   "response": [
     {
       "datetime": 1717401287,
+      "expected_filename": "StagOS-porsche-14.0-BETA-Pristine-20240603-0731.zip",
       "filename": "StagOS-porsche-incremental-Pristine-20240603-0731-20240603-0744.zip",
-      "url": "<url>",
+      "url": "https://downloads.vjspranav.dev/jenkins/StagOS-porsche-incremental-Pristine-20240603-0731-20240603-0744.zip",
       "md5": "ccc26577e9434b197a5e4e29968352e4",
       "payload": [
         {
