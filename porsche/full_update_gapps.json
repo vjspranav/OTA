@@ -1,17 +1,19 @@
 {
-    "response": [
-      {
-        "datetime": 1714518830,
-        "filename": "StagOS-Test",
-        "payload": [
-          {
-            "offset": 3835,
-            "FILE_HASH": "3b2",
-            "FILE_SIZE": "3",
-            "METADATA_HASH": "3b2",
-            "METADATA_SIZE": "3"
-          }
-        ]
-      }
-    ]
-  }
+  "response": [
+    {
+      "datetime": 1717960064,
+      "filename": "StagOS-porsche-14.0-BETA-GApps-20240609-1849-signed.zip",
+      "url": "https://downloads.vjspranav.dev/jenkins/StagOS-porsche-14.0-BETA-GApps-20240609-1849-signed.zip",
+      "md5": "d8d8073c8d4daf290569166a5382bb4a",
+      "payload": [
+        {
+          "offset": 3971,
+          "FILE_HASH": "2uk54qk/+OMsWkNiRq+D0RWPHqMCs84aw37QjWN+O68=",
+          "FILE_SIZE": "2526977788",
+          "METADATA_HASH": "xCIdzhYEW5gIEnD2/44/hMAaSTsmHeZQGrHPwEzTkWo=",
+          "METADATA_SIZE": "152315"
+        }
+      ]
+    }
+  ]
+}
