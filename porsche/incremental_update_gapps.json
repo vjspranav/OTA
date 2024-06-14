@@ -2,7 +2,7 @@
   "response": [
     {
       "datetime": 1718360933,
-      "expected_filename": "StagOS-porsche-14.0-BETA-GApps-20240614-0918-signed",
+      "expected_filename": "StagOS-porsche-14.0-BETA-GApps-20240614-0918-signed.zip",
       "filename": "StagOS-porsche-incremental-GApps-20240614-0918-20240614-1011.zip",
       "url": "https://downloads.vjspranav.dev/jenkins/StagOS-porsche-incremental-GApps-20240614-0918-20240614-1011.zip",
       "md5": "d6ee515492620a5fcb662c750773846b",
