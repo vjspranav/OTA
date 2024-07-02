@@ -1,17 +1,17 @@
 {
   "response": [
     {
-      "datetime": 1718360413,
-      "filename": "StagOS-porsche-14.0-BETA-GApps-20240614-1011-signed.zip",
-      "url": "https://downloads.vjspranav.dev/jenkins/StagOS-porsche-14.0-BETA-GApps-20240614-1011-signed.zip",
-      "md5": "d20cf216feb5579ec84f372e73ede17b",
+      "datetime": 1719914051,
+      "filename": "StagOS-porsche-14.3.0-OFFICIAL-GApps-20240702-0836-signed.zip",
+      "url": "https://downloads.vjspranav.dev/jenkins/StagOS-porsche-14.3.0-OFFICIAL-GApps-20240702-0836-signed.zip",
+      "md5": "29f4270c424e1bbcd5560326d6ab3f65",
       "payload": [
         {
-          "offset": 4079,
-          "FILE_HASH": "poHtISjWj9d+ZbWw+/V2wWGu5boR0dLrwoVbN39Y/yA=",
-          "FILE_SIZE": "2957264342",
-          "METADATA_HASH": "ttStg5oZcrakyj9PXiu5uKq5WYm0EJ+AYlz1K8EpAfE=",
-          "METADATA_SIZE": "174966"
+          "offset": 4000,
+          "FILE_HASH": "UZfg614i1nH++Bb5zo1BKTg5EnpO9vauDxC1tpvAU50=",
+          "FILE_SIZE": "2985130370",
+          "METADATA_HASH": "asa4WhOo2X82GxbnSpM0UjUh4a9odw5ddbnifogcv1Q=",
+          "METADATA_SIZE": "176168"
         }
       ]
     }
